@@ -1,0 +1,5 @@
+sudo apt install git-all
+// for installing git in to ubuntu
+
+git --version
+// to know the version of git and also confirm the git is installed 
