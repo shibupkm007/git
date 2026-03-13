@@ -1,3 +1,5 @@
+Git commands
+
 sudo apt install git-all
 // for installing git in to ubuntu
 
